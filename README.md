@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align="center"> 
-	Event Manager -  Obtenha sua credencial agora! 🪪 💜
+	Event Manager -  Get your credential now! 🪪 💜
 </h4>
 
 <br/>
@@ -28,112 +28,74 @@
 </p>
 
 <p align="center">
-  <a href="#sobre-o-CEP-MAIS">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!-- <a href="#try-it-now">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
-  <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!-- <a href="#-backstage">Backstage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
+  <a href="#sobre-about-the-event-manager">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#use-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#contribute-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
-## Sobre o Event Manager
+## :sobre: About the Event Manager
 
-O Event Manager é um gerenciador o gerenciador de eventos que você precisa| Let's spread love 🔍💜.
+The Event Manager is all you need to get your credentials for any event you want | Let's spread love 🔍💜.
 
-## :rocket: Tecnologias
+## :rocket: Techs
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+This project has been developed with the following techs:
 
-[NodeJS][nodejs] 💻 </br>
+[React Native][reactnative] 💻 </br>
 [Typescript][typescript] 📘 </br>
-[Postgres][postgres] 🎲 </br>
-[Redis][redis] 🔻 </br>
-[Docker][docker] 🐳 </br>
-[ReactJS][react] 💙 </br>
-[Styled Components][styled-components] 💅 </br>
+[Tailwind][tailwind] 💅 </br>
+[Expo][expo] 🏗️ </br>
 
-## Como usar ? 🤔
+## :use: How to use
 
-É necessário que você tenha algumas ferramentas instaladas antes de clonar este projeto.
+It's recommended that you have those tools on your laptop before cloning this repository.
 
 - [Git](https://git-scm.com)
-- [VSCode](https://code.visualstudio.com/) ou algum outro editor de sua prferência
-- [Node.js](https://nodejs.org/) (recomendado a versão LTS do site oficial)
-- [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) como gerenciador de pacotes. _Ao instalar o **NodeJS** o **NPM** é instalado automaticamente_.
-- [Docker](https://www.docker.com/) **Recomendado**, mas não necessário. Este projeto possui suporte ao **Docker** o que facilita a configuração do nosso backend, por isso recomendamos 🐳
+- [VSCode](https://code.visualstudio.com/) or any other editor of your preference
+- [Node.js](https://nodejs.org/) (LTS recommended)
+- [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) as your package manager. _Installing **NodeJS** the **NPM** is automatically installed_.
 
-### Vamos começar!! ✍
+### Let's get started! ✍
 
-Abra o terminal como administrador e clone o repositório:
-
-```bash
-# Clone o repositório
-$ git clone https://github.com/marcelogaldino/cepMais
-```
-
-## Rodando o frontend da aplicação
+Open your terminal as administrator and clone the repository:
 
 ```bash
-# Vá para o diretório cepMais/
-$ cd cepMais
-# Vá para o diretório frontend/
-$ cd frontend
-# Instale as dependências
-$ yarn
-# Inicie a aplicação
-$ yarn start
+# Clone the repository
+$ git clone https://github.com/marcelogaldino/event-manager
 ```
 
-Neste momento você deverá ter o seu browser aberto automaticamente rodando a aplicação na porta 3000 _http://localhost:3000_
-
-## Rodando o backend da aplicação
-
-É necessário abrir uma nova aba ou um novo terminal para este procedimento
+## Running the app
 
 ```bash
-# Volte um diretório, caso vc esteja em /cepMais/frontend
-$ cd ..
-# Vá para o diretório backend/
-$ cd backend
-# Instale as dependências
-$ yarn
-# Subindo os containers docker da nossa aplicação
-$ docker-compose up -d
-# Verificando os nossos containers que estão rodando
-$ docker ps #deve listar 3 containers, o cepMais, redis e postgres
-# Rodando as migrations
-$ yarn typeorm migration:run
-# Checando se nossa aplicação esta rodando corretamente
-$ docker logs cepMais -f
-
-# Caso tenha algum erro ao subir os containers docker use o comando abaixo para recria-los
-$ docker-compose up --build --force-recreate
+# Go to event-manager/
+$ cd event-manager
+# Install dependencies
+$ npm i
+# Start the aplication and follow the instructions on your terminal
+$ npm start
 ```
 
-Neste momento temos a nossa aplicação com o backend e seus serviços em execução, com o backend rodando na porta 3333. _http://localhost:3333_
+## :contribute: How to contribute
 
-## Como contribuir
+- Make a fork;
+- Make a new branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push your new branch: `git push origin my-feature`.
 
-- Faça um fork;
-- Crie uma nova branch com a sua feature: `git checkout -b my-feature`;
-- Commit as suas alterações: `git commit -m 'feat: My new feature'`;
-- Empurre para o repositório remoto a sua nova branch: `git push origin my-feature`.
+Open the pull request.
 
-Abra um pull request para analisarmos as mudanças.
-
-Você também pode nos ajudar abrindo issues.
+You are also free to help us opening issues.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/marcelogaldino/cepMais/blob/main/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/marcelogaldino/event-manager/blob/main/LICENSE) for details.
 
 Made with ♥ by Marcelo Galdino :wave: [Get in touch!](https://www.linkedin.com/in/marcelogaldino/)
 
 [typescript]: https://www.typescriptlang.org/
 [react]: https://reactjs.org/
-[postgres]: https://www.postgresql.org/
-[redis]: https://redis.io/
-[docker]: https://www.docker.com/
-[nodejs]: https://nodejs.org/en/
-[styled-components]: https://styled-components.com/
+[tailwind]: https://tailwindcss.com/
+[reactnative]: https://reactnative.dev/
+[expo]: https://expo.dev/
