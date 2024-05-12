@@ -99,3 +99,7 @@ Made with ♥ by Marcelo Galdino :wave: [Get in touch!](https://www.linkedin.com
 [tailwind]: https://tailwindcss.com/
 [reactnative]: https://reactnative.dev/
 [expo]: https://expo.dev/
+
+### Read in [Portuguese PT-BR](README-PT-BR.md)
+
+[portuguese]: https://expo.dev/
