@@ -28,18 +28,18 @@
 </p>
 
 <p align="center">
-  <a href="#sobre-about-the-event-manager">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#use-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contribute-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#about-the-event-manager">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
 </p>
 
-## :sobre: About the Event Manager
+## About the Event Manager
 
 The Event Manager is all you need to get your credentials for any event you want | Let's spread love 🔍💜.
 
-## :rocket: Techs
+## Techs
 
 This project has been developed with the following techs:
 
@@ -48,7 +48,7 @@ This project has been developed with the following techs:
 [Tailwind][tailwind] 💅 </br>
 [Expo][expo] 🏗️ </br>
 
-## :use: How to use
+## How to use
 
 It's recommended that you have those tools on your laptop before cloning this repository.
 
@@ -77,7 +77,7 @@ $ npm i
 $ npm start
 ```
 
-## :contribute: How to contribute
+## How to contribute
 
 - Make a fork;
 - Make a new branch with your feature: `git checkout -b my-feature`;
@@ -88,7 +88,7 @@ Open the pull request.
 
 You are also free to help us opening issues.
 
-## :memo: License
+## License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/marcelogaldino/event-manager/blob/main/LICENSE) for details.
 

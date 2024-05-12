@@ -28,18 +28,18 @@
 </p>
 
 <p align="center">
-  <a href="#sobre-sobre-o-gerenciador-de-eventos">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#use-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contribute-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#sobre-o-gerenciador-de-eventos">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
 </p>
 
-## :sobre: Sobre o Gerenciador de Eventos
+## Sobre o Gerenciador de Eventos
 
 O Gerenciador de Eventos é tudo o que você precisa para obter suas credenciais para qualquer evento que desejar | Vamos espalhar amor 🔍💜.
 
-## :rocket: Tecnologias
+## Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -48,7 +48,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 [Tailwind][tailwind] 💅 </br>
 [Expo][expo] 🏗️ </br>
 
-## :use: Como usar
+## Como usar
 
 É recomendável que você tenha essas ferramentas em seu laptop antes de clonar este repositório.
 
@@ -77,7 +77,7 @@ $ npm i
 $ npm start
 ```
 
-## :contribute: Como contribuir
+## Como contribuir
 
 - Faça um fork;
 - Crie um novo branch com sua feature: `git checkout -b minha-feature`;
@@ -88,7 +88,7 @@ Abra o pull request.
 
 Você também está livre para nos ajudar abrindo issues.
 
-## :memo: Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/marcelogaldino/event-manager/blob/main/LICENSE) para mais detalhes.
 
