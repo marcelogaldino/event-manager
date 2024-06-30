@@ -9,21 +9,21 @@
 <br/>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelogaldino/cepMais?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelogaldino/event-manager?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcelogaldino/cepMais">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcelogaldino/event-manager">
 	
   <a href="https://www.linkedin.com/in/marcelogaldino/">
     <img alt="Made by marcelogaldino" src="https://img.shields.io/badge/made%20by-marcelogaldino-%2304D361">
   </a>
 
-  <a href="https://github.com/marcelogaldino/cepMais/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelogaldino/cepMais">
+  <a href="https://github.com/marcelogaldino/event-manager/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelogaldino/event-manager">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/marcelogaldino/cepMais/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelogaldino/cepMais?style=social">
+   <a href="https://github.com/marcelogaldino/event-manager/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelogaldino/event-manager?style=social">
   </a>
 </p>
 
@@ -38,6 +38,11 @@
 ## About the Event Manager
 
 The Event Manager is all you need to get your credentials for any event you want | Let's spread love 🔍💜.
+
+<div style="display: flex; flex-direction: row; justfy-content: space-around; align-items: center; margin-left: 20%; gap: 24px">
+    <img alt="Home" height="600" src="https://github.com/marcelogaldino/event-manager/assets/13842365/0318d6dc-8e74-4cd8-8382-c276ba6562ac">
+    <img alt="Credential" height="600" src="https://github.com/marcelogaldino/event-manager/assets/13842365/c4788207-730a-4234-a803-412e77d3aab3">
+</div>
 
 ## Techs
 
