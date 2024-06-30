@@ -40,7 +40,7 @@
 The Event Manager is all you need to get your credentials for any event you want | Let's spread love 🔍💜.
 
 <div style="display: flex; flex-direction: row; justfy-content: space-around; align-items: center; margin-left: 20%; gap: 24px">
-    <img alt="Home" height="600" src="https://github.com/marcelogaldino/event-manager/assets/13842365/0318d6dc-8e74-4cd8-8382-c276ba6562ac">
+    <img alt="Home" height="600" src="https://github.com/marcelogaldino/event-manager/blob/main/assets/images/event-manager-home.png?raw=true">
     <img alt="Credential" height="600" src="https://github.com/marcelogaldino/event-manager/blob/main/assets/images/apply.png?raw=true">
 </div>
 
