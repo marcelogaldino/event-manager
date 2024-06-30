@@ -40,8 +40,8 @@
 O Gerenciador de Eventos é tudo o que você precisa para obter suas credenciais para qualquer evento que desejar | Vamos espalhar amor 🔍💜.
 
 <div style="display: flex; flex-direction: row; justfy-content: space-around; align-items: center; margin-left: 20%; gap: 24px">
-    <img alt="Home" height="600" src="https://github.com/marcelogaldino/event-manager/assets/13842365/0318d6dc-8e74-4cd8-8382-c276ba6562ac">
-    <img alt="Credential" height="600" src="https://github.com/marcelogaldino/event-manager/assets/13842365/c4788207-730a-4234-a803-412e77d3aab3">
+    <img alt="Home" height="600" src="https://github.com/marcelogaldino/event-manager/blob/main/assets/images/event-manager-home.png?raw=true">
+    <img alt="Credential" height="600" src="https://github.com/marcelogaldino/event-manager/blob/main/assets/images/apply.png?raw=true">
 </div>
 
 ## Tecnologias
