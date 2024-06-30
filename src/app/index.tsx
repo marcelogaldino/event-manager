@@ -13,7 +13,6 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(false);
 
   const badgeStore = useBadgeStore();
-  console.log("DADOS =>", badgeStore.data);
 
   async function handleAccessCredential() {
     try {
